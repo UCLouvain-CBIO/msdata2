@@ -16,6 +16,7 @@ Suggests:
     testthat,
     xcms
 Depends: R (>= 3.5.0), MSnbase
+VignetteBuilder: knitr
 URL: https://github.com/UCLouvain-CBIO/msdata2
 BugReports: https://github.com/UCLouvain-CBIO/msdata2/issues
 License: GPL-2
